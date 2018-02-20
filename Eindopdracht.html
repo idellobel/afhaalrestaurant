@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Eindopdracht</title>
+    <meta charset="utf-8" />
+    <meta name="keywords" lang="nl" content="Eindopdracht,Resto,Krokantje">
+    <meta name="description" content="Javascript -Eindopdracht">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="afbeeldingen/Eetbare_Insecten.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="afbeeldingen/Eetbare_Insecten.ico" type="image/x-icon" />
+
+    <!-- Gebruik van eigen CSS-file om aanpassingen te maken -->
+    <link rel="stylesheet" type="text/css" href="Css/eigenCss.css" />
+    <!-- Gebruik van Javascript -->
+    <script src="jQuery/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="JScript/eigenJScript.js"></script>
+
+</head>
+<body>
+<h1 class="titel" id="titel">Resto 'Het Krokantje'</h1>
+
+<div id="inhouden" class="kader"></div>
+
+
+<div class="kader">
+    <h4><b>Gang:</b></h4>
+    <select id="selecteerGang"></select>
+
+    <h4><b>Keuze:</b></h4>
+    <select class="" id="selecteerKeuze" size="5"></select>
+
+    <p><h4>Aantal personen : <input id="ingaveAantal" type="text" value="0" style="width: 50px;" /></h4></p>
+
+    <p><input class="knopVoorbestelling" id="bestelknop" type="button" value="Bestel" /></p>
+</div>
+
+<div id="kabestel" class="kaderBestellingen">
+    <h2 class="titel">Bestellingen</h2>
+    <h5 class="voorgerechten"  id="voor">Voorgerechten</h5>
+    <h5 class="hoofdgerechten" id="hoofd">hoofdgerechten</h5>
+    <h5 class="desserts" id="dess">desserts</h5>
+    <h5 class="totalen" id="tot">totalen</h5>
+</div>
+</body>
+
+</html>

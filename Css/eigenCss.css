@@ -1,0 +1,111 @@
+﻿body {
+    background-color: aliceblue;
+}
+.titel {
+    color: #008000;
+    text-align: center;
+}
+.kader {
+    margin-top: 20px;
+    margin-left: 15%;
+    height: 280px;
+    width: 70%;
+    background-color: #ffff66;
+    border:2px solid #008000;
+}
+.kaderBestellingen {
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 70%;
+    background-color: #ffff66;
+    border: 2px solid #008000;
+    display: none;
+
+}
+
+.uitzicht {
+    padding: 10px;
+    background-color: aqua;
+    width: 500px;
+    margin: 20%;
+}
+select {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+h4 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.knopVoorbestelling {
+    margin-left: 46%;
+    text-align: center;
+    color: #008000;
+    background-color: greenyellow;
+    width: 8%;
+    border-radius: 5px;
+}
+.knopNabestelling {
+    margin-left: 7%;
+    text-align: center;
+    color: #008000;
+    background-color: greenyellow;
+    width: 85%;
+    border-radius: 5px;
+} 
+
+
+.foto {
+    margin: 20px;
+    margin-bottom: 20px;
+    float: left;
+    width: 380px;
+    height: 240px;
+    border: 2px solid black;
+}
+.naam {
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    color: #ff9900;
+   
+}
+.prijs {
+    text-align: left;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+   
+}
+.beschrijving {
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom:80px;
+    margin-left: 30px;
+}
+.voorgerechten, .hoofdgerechten, .desserts {
+    background-color: gray;
+    margin: 10px;
+    color: white;
+    width: 85%;
+    margin-left: 7%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    display: none;
+}
+.totalen {
+    background-color: lightblue;
+    margin: 10px;
+    color: white;
+    width: 88%;
+    margin-left: 5%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+

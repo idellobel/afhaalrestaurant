@@ -1,0 +1,56 @@
+﻿{
+  "Voorgerechten": [
+    {
+      "Naam": "Sprinkhaan",
+      "Beschrijving": "Krokante sprinkhaan op een bedje van kakkerlak",
+      "Prijs": "5,99",
+      "Foto": "Foto1.jpg"
+    },
+    {
+      "Naam": "Tandoori Burger",
+      "Beschrijving": "Burger op basis van Tandoori, een snelle hap als hongerstillertje",
+      "Prijs": "4,99",
+      "Foto": "Foto3.jpg"
+    },
+    {
+      "Naam": "Cupcake",
+      "Beschrijving": "Eetbare Cupcake, met wormpjes",
+      "Prijs": "2,99",
+      "Foto": "Foto9.jpg"
+    }
+  ],
+  "Hoofdgerechten": [
+    {
+      "Naam": "Sushi",
+      "Beschrijving": "Speciale sushi met een summum aan krakertjes",
+      "Prijs": "7,99",
+      "Foto": "Foto8.jpg"
+    },
+    {
+      "Naam": "Insect Burger",
+      "Beschrijving": "Een burger met lekkers en Pont-Neuf frietjes",
+      "Prijs": "4,99",
+      "Foto": "Foto5.jpg"
+    },
+    {
+      "Naam": "Salade",
+      "Beschrijving": "Salade op basis van zelfgevonden items",
+      "Prijs": "1,99",
+      "Foto": "Foto10.jpg"
+    }
+  ],
+  "Desserts": [
+    {
+      "Naam": "Lolly",
+      "Beschrijving": "Een lolly met inhoud, een vleugje notalgie",
+      "Prijs": "2,99",
+      "Foto": "Foto6.jpg"
+    },
+    {
+      "Naam": "Ijsje",
+      "Beschrijving": "Lekker ijs met licht glimmende worms on the side",
+      "Prijs": "2,99",
+      "Foto": "Foto7.jpg"
+    }
+  ]
+}
